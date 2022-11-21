@@ -2,9 +2,5 @@
 #include <stdio.io>
 
 int main(){
-double a,b,result;
-  printf("please give numbers");
-  scanf("%lf%lf",&a,&b);
-  result=(a*b);
-  printf("%lf",result");
+printf("meymun ve zürefe")
   }
