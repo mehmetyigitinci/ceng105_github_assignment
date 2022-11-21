@@ -2,5 +2,7 @@
 #include <stdio.io>
 
 int main(){
-printf("meymun ve zürefe")
+char a;
+printf("please give letter:");
+return(o)
   }
