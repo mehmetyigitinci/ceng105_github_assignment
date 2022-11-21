@@ -2,6 +2,9 @@
 #include <stdio.io>
 
 int main(){
-
-  printf("hello world!");
+double a,b,result;
+  printf("please give numbers");
+  scanf("%lf%lf",&a,&b);
+  result=(a*b);
+  printf("%lf",result");
   }
