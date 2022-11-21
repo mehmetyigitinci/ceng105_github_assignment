@@ -1,0 +1,7 @@
+#include <math.h>
+#include <stdio.io>
+
+int main(){
+
+  printf("hello world!");
+  }
